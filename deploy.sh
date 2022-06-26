@@ -20,7 +20,7 @@ git commit -m 'deploy'
 # if you are deploying to https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git main
 
-if you are deploying to https://tmarecodev.github.io/react-rick-and-morty
-# git push -f git@github.com:<USERNAME>/<REPO>.git main:gh-pages
+# if you are deploying to https://tmarecodev.github.io/react-rick-and-morty
+git push -f git@github.com:tmarecodev/react-rick-and-morty.git main:gh-pages
 
 cd -
